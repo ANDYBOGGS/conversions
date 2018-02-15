@@ -1,0 +1,11 @@
+.jumbotron {
+  text-align: center;
+  background-color: #465e84
+}
+body {
+  background-image: url(https://picturecorrect-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/golden-ratio-4.jpg);
+}
+
+#output {
+  color: white;
+}
